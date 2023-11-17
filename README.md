@@ -1,8 +1,8 @@
 <h1>Taller 10 - Andrey Felipe Mahecha Gómez</h1>
 
 <h2>Información</h2>
-<p>Curso : Full Stack Básico - Grupo 1</p>
-<p>Profesor: Cristian Patiño</p>
+<p><b>Curso :</b> Full Stack Básico - Grupo 1</p>
+<p><b>Profesor: </b>Cristian Patiño</p>
 
 
 <h2>Punto 1 : Constantes y Variables</h2>
