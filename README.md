@@ -18,10 +18,13 @@
 <img src="./public/images/punto-4.png" alt="punto 4">
 
 <h2>Punto 5 : Entrada bolera usando If/ elseif</h2>
+<img src="./public/images/punto-5.png" alt="punto 5"
 
 <h2>Punto 6 : Detección mayoría de Edad</h2>
+<img src="./public/images/punto-6.png" alt="punto 6"
 
 <h2>Punto 7 : Selección de Operación Aritmética</h2>
+<img src="./public/images/punto-7.png" alt="punto 7"
 
 <h2>Punto 8 : Entrada bolera usando Switch</h2>
 
