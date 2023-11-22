@@ -30,10 +30,13 @@
 <img src="./public/images/punto-8.png" alt="punto 8"
 
 <h2>Punto 9 : Tabla de Multiplicar usando While</h2>
+<img src="./public/images/punto-9.png" alt="punto 9"
 
 <h2>Punto 10 : Número Pares usando While</h2>
+<img src="./public/images/punto-10.png" alt="punto 10"
 
 <h2>Punto 11 : Números Impares usando For</h2>
+<img src="./public/images/punto-11.png" alt="punto 11"
 
 <h2>Punto 12 : Tabla de Multiplicar usando For</h2>
 
